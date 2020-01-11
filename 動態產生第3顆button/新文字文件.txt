@@ -1,0 +1,1 @@
+只放2個button，按下第一個button後，可以動態產生第3顆button(但是這個第3個button 無法被按下)。在你按下第2個button之後，這個button 3就可以被按下了！
