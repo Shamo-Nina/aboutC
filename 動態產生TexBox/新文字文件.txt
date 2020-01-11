@@ -1,0 +1,1 @@
+在設計畫面上，放上一個button。按下後，產生第2個button及一個textBox(此時它不能輸入任何資料)，在按下第2個button之後，textBox上面出現預設字串： “input”而且這個textBox可以開始輸入字串了！
